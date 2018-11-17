@@ -59,6 +59,7 @@ namespace AlchemyCore
 
             // Set the PrimaryKeys property to the array.
             formulas.PrimaryKey = keyColumns;
+
         }
 
         private static void PopulateTable()
